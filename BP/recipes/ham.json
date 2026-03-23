@@ -1,0 +1,28 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "hamburber:ham"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:porkchop"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:porkchop"
+      }
+    ],
+    "result": {
+      "item": "hamburber:ham",
+      "count": 4
+    }
+  }
+}
