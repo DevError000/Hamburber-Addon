@@ -1,0 +1,32 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "hamburber:hamburber"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "-",
+      "#",
+      "-"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:cooked_beef"
+      },
+      "-": {
+        "item": "hamburber:bun"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cooked_beef"
+      }
+    ],
+    "result": {
+      "item": "hamburber:hamburber"
+    }
+  }
+}
