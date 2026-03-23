@@ -1,0 +1,32 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "hamburber:hamhamburber"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "-",
+      "#",
+      "-"
+    ],
+    "key": {
+      "#": {
+        "item": "hamburber:ham"
+      },
+      "-": {
+        "item": "hamburber:bun"
+      }
+    },
+    "unlock": [
+      {
+        "item": "hamburber:ham"
+      }
+    ],
+    "result": {
+      "item": "hamburber:hamhamburber"
+    }
+  }
+}
