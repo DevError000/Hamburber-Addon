@@ -1,0 +1,32 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "hamburber:hamburber"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "-",
+      "-",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "-": {
+        "item": "hamburber:hamburber"
+      }
+    },
+    "unlock": [
+      {
+        "item": "hamburber:hamburber"
+      }
+    ],
+    "result": {
+      "item": "hamburber:hamburber_sword"
+    }
+  }
+}
