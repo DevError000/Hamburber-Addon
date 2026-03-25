@@ -1,0 +1,21 @@
+{
+    "format_version": 3,
+    "header": {
+        "name": "Hamburbers",
+        "description": "Simple Hamburber Addon",
+        "uuid": "c5db0615-64a3-4ee4-9620-a7266fdc4fea",
+        "version": "1.0.0",
+        "min_engine_version": "1.26.10"
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "5d9d5e3e-2aa3-4dd0-8940-1dc040e6555b",
+            "version": "1.0.0"
+        }
+    ],
+    "metadata": {
+        "authors": ["DevError000"],
+        "product_type": "addon"
+    }
+}
