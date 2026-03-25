@@ -2,19 +2,19 @@
     "texture_data": {
         "hamburber:hamburber": {
             "textures": "textures/items/hamburber"
-        }
+        },
         "hamburber:hamburberEnchanted": {
             "textures": "textures/items/hamburber"
-        }
+        },
         "hamburber:ham": {
             "textures": "textures/items/porkchop"
-        }
+        },
         "hamburber:hamburber_sword": {
             "textures": "textures/items/hamburber_sword"
-        }
+        },
         "hamburber:bun": {
             "textures": "textures/items/bun"
-        }
+        },
         "hamburber:hamhamburber": {
             "textures": "textures/items/hamburber"
         }
