@@ -1,0 +1,22 @@
+{
+    "format_version": 3,
+    "header": {
+        "name": "Hamburbers RP",
+        "description": "Simple Hamburber Addon",
+        "uuid": "5d9d5e3e-2aa3-4dd0-8940-1dc040e6555b",
+        "version": "1.0.0",
+        "min_engine_version": "1.26.10"
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "d4783508-5e62-4d94-b2a4-ab1ddb3c5f3d",
+            "version": "1.0.0"
+        }
+    ],
+    "metadata": {
+        "authors": ["DevError000"],
+        "product_type": "addon"
+    },
+    "capabilities": ["pbr"] // Allows Vibrant Visuals to be enabled while this pack is activated.
+}
