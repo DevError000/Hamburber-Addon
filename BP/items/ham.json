@@ -12,9 +12,9 @@
         "saturation_modifier": "good"
       },
       "minecraft:icon": "hamburber:ham",
-        "minecraft:display_name": {
-          "value": "Ham"
-        }
+      "minecraft:display_name": {
+        "value": "Ham"
+      }
     }
   }
 }
