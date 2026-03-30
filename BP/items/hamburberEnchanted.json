@@ -11,6 +11,10 @@
       "minecraft:stacked_by_data": true,
       "minecraft:use_duration": 32,
       "minecraft:foil": true,
+      "minecraft:icon": "hamburber:hamburberEnchanted",
+      "minecraft:display_name": {
+        "value": "Enchanted Hamburber"
+      },
       "minecraft:food": {
         "nutrition": 10,
         "saturation_modifier": "supernatural",
