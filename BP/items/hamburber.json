@@ -10,6 +10,10 @@
       "minecraft:food": {
         "nutrition": 10,
         "saturation_modifier": "good"
+      },
+      "minecraft:icon": "hamburber:hamburber",
+      "minecraft:display_name": {
+        "value": "Hamburber"
       }
     }
   }
