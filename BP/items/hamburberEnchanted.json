@@ -19,7 +19,7 @@
         "nutrition": 10,
         "saturation_modifier": "supernatural",
         "can_always_eat": true,
-        "effects": [
+        "hamburber:food_effects": [
           {
             "name": "regeneration",
             "chance": 1.0,
