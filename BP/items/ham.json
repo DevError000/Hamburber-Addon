@@ -10,7 +10,11 @@
       "minecraft:food": {
         "nutrition": 4,
         "saturation_modifier": "good"
-      }
+      },
+      "minecraft:icon": "hamburber:ham",
+        "minecraft:display_name": {
+          "value": "Ham"
+        }
     }
   }
 }
