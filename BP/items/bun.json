@@ -13,8 +13,8 @@
       }
     },
     "minecraft:icon": "hamburber:bun",
-      "minecraft:display_name": {
-        "value": "Bun"
-      }
+    "minecraft:display_name": {
+      "value": "Bun"
+    }
   }
 }
