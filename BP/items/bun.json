@@ -11,10 +11,10 @@
         "nutrition": 3,
         "saturation_modifier": "normal"
       }
-    },
-    "minecraft:icon": "hamburber:bun",
-    "minecraft:display_name": {
-      "value": "Bun"
+      "minecraft:icon": "hamburber:bun",
+      "minecraft:display_name": {
+        "value": "Bun"
+      }
     }
   }
 }
