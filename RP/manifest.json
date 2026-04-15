@@ -3,14 +3,14 @@
     "header": {
         "name": "Hamburbers RP",
         "description": "Simple Hamburber Addon",
-        "uuid": "5d9d5e3e-2aa3-4dd0-8940-1dc040e6555b",
+        "uuid": "ea0592b8-8ff8-4848-baa1-cef702a3476a",
         "version": "1.0.0",
         "min_engine_version": "1.26.10"
     },
     "modules": [
         {
             "type": "resources",
-            "uuid": "04d6f992-d608-43f0-a024-99ac99e9556a",
+            "uuid": "95efe9aa-67fd-46cd-9554-5ff3416e6654",
             "version": "1.0.0"
         }
     ],
