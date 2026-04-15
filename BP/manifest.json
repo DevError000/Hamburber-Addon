@@ -3,14 +3,14 @@
     "header": {
         "name": "Hamburbers BP",
         "description": "Simple Hamburber Addon",
-        "uuid": "c5db0615-64a3-4ee4-9620-a7266fdc4fea",
+        "uuid": "1511b600-1061-42dd-910c-c7056b677fad",
         "version": "1.0.0",
         "min_engine_version": "1.26.10"
     },
     "modules": [
         {
             "type": "data",
-            "uuid": "d4783508-5e62-4d94-b2a4-ab1ddb3c5f3d",
+            "uuid": "3395e628-9e75-49c0-87a9-fff1e3687ef0",
             "version": "1.0.0"
         }
     ],
