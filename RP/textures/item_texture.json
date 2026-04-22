@@ -17,6 +17,9 @@
         },
         "hamburber:hamhamburber": {
             "textures": "textures/items/hamburber"
+        },
+        "hamburber:admin_sword": {
+            "textures": "textures/items/admin_sword"
         }
     }
 }
