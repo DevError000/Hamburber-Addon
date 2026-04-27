@@ -4,7 +4,6 @@
     "description": {
       "identifier": "hamburber:ham"
     },
-
     "components": {
       "minecraft:use_duration": 32,
       "minecraft:food": {
