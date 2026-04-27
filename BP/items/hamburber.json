@@ -1,10 +1,9 @@
 {
-  "format_version": "1.10",
+  "format_version": "1.26.10",
   "minecraft:item": {
     "description": {
       "identifier": "hamburber:hamburber"
     },
-
     "components": {
       "minecraft:use_duration": 32,
       "minecraft:food": {
